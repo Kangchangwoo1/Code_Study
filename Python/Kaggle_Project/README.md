@@ -2,10 +2,10 @@
 
 
 
-Python 기반으로 하여, Kaggle Competition에 매 주 참여하고 결과를 내보고 해당 코드들을 업로드 하고자 함.
+    Python 기반으로 하여, Kaggle Competition에 매 주 참여하고 결과를 내보고 해당 코드들을 업로드 하고자 함.
 
 
-(Kaggle Competition : https://www.kaggle.com/)
+    (Kaggle Competition : https://www.kaggle.com/)
 
  
  
