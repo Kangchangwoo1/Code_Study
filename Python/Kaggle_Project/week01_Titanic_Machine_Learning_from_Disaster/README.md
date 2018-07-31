@@ -13,43 +13,23 @@
 
 ### Method1.UsingTensorflow&Seaborn
 - 느낀점
-
-
-    1
-    2
-    3
+> This is a blockqute.
     
     
 - 코드
-
-
-    1
-    2
-    3
+> This is a blockqute.
     
     
 - 추가가능
-
-
-    1
-    2
-    3
+> This is a blockqute.
     
     
 - 정확도
-
-
-    1
-    2
-    3
+> This is a blockqute.
     
     
 - 마무리
-
-
-    1
-    2
-    3
+> This is a blockqute.
  
  
  
