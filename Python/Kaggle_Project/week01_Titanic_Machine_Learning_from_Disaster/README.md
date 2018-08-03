@@ -25,8 +25,11 @@
     
 - 코드
 > Variable = DataFrame.nlargest(10, 'Column')['Column'] 데이터프레임 중에 특정한 컬럼의 수치대로 나열하고 싶을 떄 활용가능
+>
 > DataFrame.isnull().count().sort_values(ascending=False) 결측치 확인할 때, 활용가능
+>
 > DataFrame.describe() 데이터 프레임의 요약정보 반환
+>
 > DataFrame.Column.astype(str) 컬럼의 형변환 시 활용 가능
     
     
