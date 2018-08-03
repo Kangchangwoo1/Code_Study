@@ -12,7 +12,7 @@
 
 
 
-### Method1.UsingTensorflow&Seaborn
+### Method1. UsingTensorflow&Seaborn
 
 - 정확도
 > Kaggle 정확도 : 0.76076 %
@@ -50,7 +50,25 @@
     
 - 마무리
 > 매우 부족함을 많이 느낄 수 있었다. 내 코드는 아니였지만, 공부할 부분이 매우 많은 듯 보인다.
- 
+
+
+### Method2. 
+- 정확도
+> 
+
+- 느낀점
+> 
+    
+    
+- 코드
+> 
+    
+- 추가진행
+> 
+    
+    
+- 마무리
+> 
  
  
  
