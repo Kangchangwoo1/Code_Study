@@ -13,6 +13,9 @@
 
 
 ### Method1. UsingTensorflow&Seaborn
+- 설명
+> 데이터과학 강의를 수강했을 때, 참고했었던 학우의 소스코드입니다.
+
 
 - 정확도
 > Kaggle 정확도 : 0.76076 %
@@ -52,7 +55,12 @@
 > 매우 부족함을 많이 느낄 수 있었다. 내 코드는 아니였지만, 공부할 부분이 매우 많은 듯 보인다.
 
 
-### Method2. 
+### Method2. A_Data_Science_Framework_To_Achieve_99%Accuracy
+- 설명
+> Kaggle 홈페이지 Kernel 중에 기본적인 이해를 돕기 위한 튜토리얼 형식으로 적혀있는 외부자료
+>
+> (https://www.kaggle.com/ldfreeman3/a-data-science-framework-to-achieve-99-accuracy)
+
 - 정확도
 > 
 
