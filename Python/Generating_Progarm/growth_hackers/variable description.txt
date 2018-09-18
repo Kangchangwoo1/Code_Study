@@ -1,0 +1,15 @@
+Variable Description
+
+BATHROOMS: Number of Bathrooms
+NUM_UNITS: Number of Units
+ROOMS: Number of Rooms
+BEDROOMS: Number of Bedrooms
+REMODEL_YEAR: Year structure was remodelled
+STORIES: Number of stories in primary dwelling
+PRICE: Price of sale
+BUILDING_AREA: Gross building area in square feet
+CONDITION: Condition; divided into 6 categories
+(“Poor" "Fair" "Average" "Good" "Very Good" "Excellent”)
+KITCHENS: Number of Kitchens
+FIREPLACES: Number of Fireplaces
+LAND_AREA: Land area of property in square feet
